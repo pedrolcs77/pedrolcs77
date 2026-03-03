@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedro--lucas--lopes--souza-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lucas-lopes-souza)
 [![Email](https://img.shields.io/badge/Email-pedro.lucs89ls%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedro.lucs89ls@gmail.com)
-[![Location](https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Bahia%2C%20Brasil-25D366?style=flat&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Brasil-25D366?style=flat&logo=googlemaps&logoColor=white)](#)
 
 ---
 
