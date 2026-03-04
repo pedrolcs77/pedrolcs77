@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Pedro Lucas
+#  Pedro Lucas
 
 **Estudante de Gestão da Tecnologia da Informação • Foco em Análise de Dados & Business Intelligence**
 
