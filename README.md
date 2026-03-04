@@ -16,7 +16,7 @@
 
 ---
 
-## Um pouco da minha biografia:
+## 🪪 Um pouco da minha biografia:
 
 * 🎓 **Acadêmico**: Graduando em Gestão da Tecnologia da Informação na UNIAENE (previsão: 1º semestre/2027).
 * 💼 **Atuação Prática**: Gestão e tratamento de dados institucionais (Censo da Educação Superior) e análise operacional de ambientes de TI.
