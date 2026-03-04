@@ -1,14 +1,18 @@
+<div align="center">
+
 # 💻 Pedro Lucas
 
 **Estudante de Gestão da Tecnologia da Informação • Foco em Análise de Dados & Business Intelligence**
 
-> Transformando dados brutos em inteligência de negócio. Focado em otimizar processos, criar dashboards estratégicos e apoiar a tomada de decisão através da tecnologia.
+*Transformando dados brutos em inteligência de negócio. Focado em otimizar processos, criar dashboards estratégicos e apoiar a tomada de decisão através da tecnologia.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0077B5&center=false&vCenter=true&width=600&lines=Estudante+de+GTI;Analista+de+Dados;Futuro+Cientista+de+Dados)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=25D366&center=true&vCenter=true&width=600&lines=Estudante+de+GTI;Analista+de+Dados;Futuro+Cientista+de+Dados)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedro--lucas--lopes--souza-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lucas-lopes-souza)
 [![Email](https://img.shields.io/badge/Email-pedro.lucs89ls%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedro.lucs89ls@gmail.com)
 [![Location](https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Brasil-25D366?style=flat&logo=googlemaps&logoColor=white)](#)
+
+</div>
 
 ---
 
