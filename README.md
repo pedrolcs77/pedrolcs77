@@ -40,7 +40,7 @@
 
 ---
 
-## 📈 Projetos em Destaque
+## 📌 Projetos em Destaque
 
 * **Omnichannel Marketing Analytics**: Pipeline de análise de dados de ponta a ponta (utilizando Python, SQL e Power BI) focado na otimização de investimentos e estratégias em campanhas publicitárias.
 * **Análise de Dados E-commerce (Olist)**: Limpeza, exploração (EDA) e manipulação de grande volume de dados reais utilizando Python e SQL, finalizando com a criação de painéis visuais no Power BI para extração de métricas de negócio.
