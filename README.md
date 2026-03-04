@@ -25,7 +25,7 @@
 
 ---
 
-## 🧰 Tech Stack & Ferramentas
+## 🛠️ Tech Stack & Ferramentas
 
 **Linguagens & Manipulação de Dados** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
